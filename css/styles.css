@@ -28,7 +28,7 @@ h1 {
 }
 
 .h2 {
-  font-weigbt: 700;
+  font-weight: 700;
   color: #0198b9;
   font-family: "Noto Sans TC";
 }
@@ -440,9 +440,9 @@ footer {
   font-size: 15px;
 }
 
-a {
+/* a {
   color: #191919 !important;
-}
+} */
 
 a:visited,
 a:link,
